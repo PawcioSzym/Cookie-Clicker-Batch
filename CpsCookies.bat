@@ -1,6 +1,6 @@
 @echo off
 :1
 cls
-set /p lol=<"Cookiec"
+set /p lol=<"Cookies"
 echo %Cookiec%
 goto 1
