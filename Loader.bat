@@ -10,6 +10,10 @@ set /p Nazwa=:
 MD %Nazwa%
 cd %Nazwa%
 re Uruchamianie programów
+start Clicker.bat
+start shop.bat
+start Cps.bat
+exit
 
 
 
